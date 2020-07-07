@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/bartekmaciag/Downloads/play-samples-play-scala-starter-example 2/conf/logback.xml,/Users/bartekmaciag/Downloads/play-samples-play-scala-starter-example 2/target/scala-2.13/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/bartekmaciag/Downloads/play-samples-play-scala-starter-example 2/conf/application.conf,/Users/bartekmaciag/Downloads/play-samples-play-scala-starter-example 2/target/scala-2.13/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/bartekmaciag/Downloads/play-samples-play-scala-starter-example 2/conf/routes,/Users/bartekmaciag/Downloads/play-samples-play-scala-starter-example 2/target/scala-2.13/classes/routes)[0m

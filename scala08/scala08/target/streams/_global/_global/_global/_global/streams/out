@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [scala08 / Compile / run] Found inputs: /Users/bartekmaciag/Documents/Scala/scala08/scala08/*.{java,scala},/Users/bartekmaciag/Documents/Scala/scala08/scala08/src/main/java/**/*.{java,scala},/Users/bartekmaciag/Documents/Scala/scala08/scala08/src/main/resources/**/*,/Users/bartekmaciag/Documents/Scala/scala08/scala08/src/main/scala/**/*.{java,scala},/Users/bartekmaciag/Documents/Scala/scala08/scala08/src/main/scala-2.13/**/*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for scala08/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m

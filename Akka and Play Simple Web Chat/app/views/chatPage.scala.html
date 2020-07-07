@@ -1,0 +1,17 @@
+ @()(implicit request: RequestHeader, flash: Flash)
+
+ @main("WebSocket Chat"){
+
+   <h2>Welcome in real time chat</h2>
+   <h3>Open new browsers to add another user to chat</h3>
+   <h4 id="user-count"></h4>
+   <br>
+     <input type="hidden" id="ws-route" value="@routes.WebChatController.socket.absoluteURL()">
+     <textarea disabled id="chat-area" rows="40" cols="80"></textarea>
+     <br>
+
+   <input type="text" id="chat-input" size="80">
+     <script src="@routes.Assets.versioned("javascripts/chat.js")"></script>
+
+
+ }

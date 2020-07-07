@@ -1,0 +1,7 @@
+~run
+ls
+end
+:q
+sys.exit
+sys.exit;
+~run
